@@ -6,7 +6,7 @@ A curated collection of resources for product engineers
 
 https://github.com/anttiviljami/product-engineer-manifesto
 
-### 𝗔𝗥𝗧𝗜𝗖𝗟𝗘𝗦
+### ARTICLES
 
 - The Product-Minded Software Engineer by Gergely Orosz (Pragmatic Engineer) - https://blog.pragmaticengineer.com/the-product-minded-engineer/
 - What is a Product Engineer? by Viljami Kuosmanen - https://dev.to/epilot/what-is-a-product-engineer-1kpg
