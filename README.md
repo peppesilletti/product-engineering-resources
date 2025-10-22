@@ -28,17 +28,3 @@ A curated collection of resources for product engineers
 ### VIDEOS
 
 - Not just code monkeys by Martin Fowler - https://www.youtube.com/watch?v=4E3xfR6IBII
-
-### PODCASTS
-
-- Decoding Product Engineering by epilot GmbH - https://open.spotify.com/episode/4qKAhVWq2jXwJStbl8gvDe?si=9a707171c2a04222
-
-### COMPANIES HIRING PRODUCT ENGINEERS
-
-- PostHog
-- Linear
-- Ashby
-- incident.io
-- epilot GmbH
-- Typefully
-- Speechify
