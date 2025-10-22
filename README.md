@@ -2,10 +2,6 @@
 
 A curated collection of resources for product engineers
 
-### PRODUCT ENGINEER MANIFESTO
-
-https://github.com/anttiviljami/product-engineer-manifesto
-
 ### ARTICLES
 
 - The Product-Minded Software Engineer by Gergely Orosz (Pragmatic Engineer) - https://blog.pragmaticengineer.com/the-product-minded-engineer/
